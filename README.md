@@ -1,1 +1,1 @@
-# IceZapret
+# zapretconfig
